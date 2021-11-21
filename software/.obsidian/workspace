@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BD/MySQL.md",
+            "file": "Linux/VIM.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD/MySQL.md",
+                "file": "Linux/VIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ff56f82dd0d10679",
   "lastOpenFiles": [
-    "BD/MySQL.md",
+    "Linux/VIM.md",
     "BD/SQL.md",
+    "BD/MySQL.md",
     "BD/JOIN.md",
+    "DAW2/XMLHttpRequest.md",
+    "Linux/Linux.md",
     "BD/Transacciones.md",
     "BD/ACID.md",
     "DAW2/AJAX.md",
-    "DAW2/Servidor.md",
-    "DAW2/XMLHttpRequest.md",
-    "Django/Django.md",
-    "Sistema/Sistema.md"
+    "DAW2/Servidor.md"
   ]
 }
