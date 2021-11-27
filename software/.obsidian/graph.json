@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 4599546
       }
+    },
+    {
+      "query": "path:Linux",
+      "color": {
+        "a": 1,
+        "rgb": 14977996
+      }
+    },
+    {
+      "query": "path:BD",
+      "color": {
+        "a": 1,
+        "rgb": 5908024
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1961169353104424,
+  "scale": 0.48854597807787137,
   "close": false
 }

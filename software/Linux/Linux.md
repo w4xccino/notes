@@ -20,7 +20,7 @@
 - `/boot/grub/grub.conf` archivo para modificar el grub.
 - `/etc/apt/sources.list.d/` carpeta para repositorios
 
-# PATH
+## PATH
 ### PATH TEMPORAL
 - `echo $PATH` Ver al path
 - `export PATH="$PATH:<location>"` Agregar al path
@@ -28,9 +28,12 @@
 Editar cualquiera de estos dos archivos con los comandos de arriba:
 - `source ~/.bashrc`
 - `source ~/.profile`
-# shortcuts
+## shortcuts
 - `shift` + `CAPS LOCK` cambiar el layout del teclado. Muy util
 
 
 # GIT
 - `git config credential.helper store`Guardar credenciales de github
+
+# Alacritty
+`alacritty-themes` configura los colorcitos del alacritty
