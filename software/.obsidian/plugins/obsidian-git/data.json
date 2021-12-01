@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "",
+  "gitPath": ".git",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false
 }
