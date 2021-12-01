@@ -14,7 +14,7 @@ Así como [[VIM]], [[Tmux]], también tiene se pueden establecer atajos de tecla
 
 ### Ventanas
 Las ventanas son como pestañas en cualquier navegador, se pueden recorrer con diferentes atajos de teclado.
-- **Crear una nueva ventana**: `C`
+- **Crear una nueva ventana**: `c`
 - **Cerrar una ventana**: `&`
 - **Ir a la ventana anterior**: `p`
 - **Ir a la ventana siguiente**: `n`

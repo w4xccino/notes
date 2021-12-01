@@ -4,7 +4,7 @@
   "foldIndent": true,
   "tabSize": 4,
   "lineWrap": true,
-  "vimMode": false,
+  "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,

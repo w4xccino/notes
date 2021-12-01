@@ -1,1 +1,103 @@
-{}
+{
+  "workspaces": {
+    "Learning Linux Commands": {
+      "main": {
+        "id": "1dc418f957db7fd2",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff56f82dd0d10679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/SSH.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "eeec23d625dee851",
+        "type": "split",
+        "children": [
+          {
+            "id": "483e43960a50eba7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ddb341e526c218d5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0ebff743de5a07eb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#ACID",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "aa55461753ecca3d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 312
+      },
+      "right": {
+        "id": "2115420b1d9ecb2a",
+        "type": "split",
+        "children": [
+          {
+            "id": "50935ce5594e926c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4608930bce96a851",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Linux/SSH.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "ff56f82dd0d10679"
+    }
+  },
+  "active": "Learning Linux Commands"
+}
