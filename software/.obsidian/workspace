@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Tmux.md",
+            "file": "Linux/SSH.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "aa55461753ecca3d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tmux.md",
+                "file": "Linux/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +96,15 @@
   },
   "active": "ff56f82dd0d10679",
   "lastOpenFiles": [
-    "Linux/Tmux.md",
+    "Linux/SSH.md",
     "Linux/Linux.md",
+    "Linux/Tmux.md",
     "Linux/VIM.md",
     "Node.js/What is?.md",
     "BD/SQL.md",
     "BD/MySQL.md",
     "BD/JOIN.md",
     "DAW2/XMLHttpRequest.md",
-    "BD/Transacciones.md",
-    "BD/ACID.md"
+    "BD/Transacciones.md"
   ]
 }
