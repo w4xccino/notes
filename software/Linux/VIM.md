@@ -3,9 +3,9 @@
 En este caso, siempre prefiero usar neovim. Es mas genial para mi gusto y mas personalizable.
 Normalmente esto se usa en [[Linux]]
 
-## Ubicación del archivo de conf
+## Ubicación del archivo de cnf
 
-`~/.config/nvim/init.vim`
+`~/.config/nvim/init.vimi`
 
 ## Comando basicos de VIM
 
@@ -19,4 +19,5 @@ Normalmente esto se usa en [[Linux]]
 - `,ff` ABre buscador
 - `,s` abre navegacion por palabras
 - `o` agregar nueva linea
+- `s` nerd tree open split windows****
 

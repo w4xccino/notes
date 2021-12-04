@@ -17,7 +17,7 @@ Las ventanas son como pestañas en cualquier navegador, se pueden recorrer con d
 - **Crear una nueva ventana**: `c`
 - **Cerrar una ventana**: `&`
 - **Ir a la ventana anterior**: `p`
-- **Ir a la ventana siguiente**: `n`
+- **Ir a la ventana siguiente**: `n`****
 - **Listar ventnas**: `w`
 
 ### Paneles

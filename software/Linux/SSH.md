@@ -15,7 +15,7 @@ Abre una terminal y usa el comando ssh-keygen con la marca -C para crear un nuev
 ssh-keygen -t rsa -f ~/.ssh/KEY_FILENAME -C USER -b 2048
 ```
 
-Reemplaza lo siguiente:
+**Reemplaza lo siguiente:**
 
 `KEY_FILENAME`: el nombre de tu archivo de claves SSH.
 
