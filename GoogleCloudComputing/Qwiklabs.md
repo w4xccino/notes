@@ -1,3 +1,6 @@
+# What is QwikLabs?
+**Qwiklabs** provides lab learning environments that help developers and IT professionals get hands-on experience working with leading cloud platforms and software.
+
 # Funciones y Componentes
 Independientemente del tema o el nivel de experiencia, todo el contenido de Qwiklabs comparte una interfaz común. El lab que está realizando debería verse similar al siguiente:
 
@@ -30,5 +33,3 @@ Algunos labs son gratuitos, pero otros requieren que pague. En el caso de los ú
 ### Lea y siga las instrucciones
 
 Esta pestaña del navegador contiene las instrucciones del lab. Cuando inicia un lab, el entorno del lab (en este caso, la interfaz de usuario de [[Google Cloud]] Console) se abre en una pestaña nueva del navegador. Deberá alternar entre las dos pestañas del navegador para leer las instrucciones y luego realizar las tareas. Según la configuración física de su computadora, también puede mover las dos pestañas a monitores diferentes.
-
-.
