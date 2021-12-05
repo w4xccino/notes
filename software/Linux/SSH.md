@@ -1,6 +1,6 @@
 # Qué es SSH?
 
-Significa `Secure Shell` que es un protocolo que permite el acceso remoto a una terminal, de un [[Servidor]] o computadora con [[Linux]].
+Significa `Secure Shell` que es un #protocolo que permite el acceso remoto a una terminal, de un [[Servidor]] o computadora con [[Linux]].
 
 ## Creación de cables SSH
 Para crear claves SSH, estas normalmente vienen en formato `.pub` que incluyen la informacion. 

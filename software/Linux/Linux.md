@@ -1,5 +1,5 @@
 
-# THe most useful commands for me
+# The most useful commands for me
 - `cd` para moverse entre carpetas
 - `chmod` cambia los permisos de archivos `-R` para que sea recursivo.
 - `mount` ,`umount`,`remount` para montar y desmontar unidades
@@ -15,6 +15,9 @@
 - `wget <url>` descargar archivos. 
 - `screen` instancias separadas de terminal 
 - `find . -name <name>` Buscar en la carpeta actual por nombre
+	- `service <process_name> status` ver si un proceso está siendo ejecutado
+	- `ps aux | grep <process_name>` ver si un proceso está siendo ejecutado
+- 
 # Locaciones importantes
 - `/etc/fstab` es un archivo para modificar las particiones y discos.
 - `/boot/grub/grub.conf` archivo para modificar el grub.

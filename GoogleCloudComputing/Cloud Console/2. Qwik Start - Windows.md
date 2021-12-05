@@ -1,0 +1,5 @@
+Compute Engine permite crear y ejecutar máquinas virtuales en la infraestructura de Google. Además, ofrece el escalamiento, el rendimiento y el valor que permiten iniciar grandes clústeres de procesamiento en la infraestructura de Google con facilidad.
+
+Puede ejecutar sus aplicaciones de Windows en Compute Engine y aprovechar los beneficios disponibles para las instancias de máquinas virtuales, como las [opciones de almacenamiento](https://cloud.google.com/compute/docs/disks/) confiable, la velocidad de la [Red de Google](https://cloud.google.com/compute/docs/vpc) y el [ajuste de escala automático](https://cloud.google.com/compute/docs/autoscaler/).
+
+En este lab práctico, aprenderá a iniciar una instancia de Windows Server en Compute Engine y a usar el #protocolo de escritorio remoto ([[RDP]]) para conectarse a ella.
