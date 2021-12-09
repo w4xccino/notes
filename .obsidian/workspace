@@ -7,8 +7,11 @@
         "id": "562cf1524e75f96a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GoogleCloudComputing/2. GCP Windows RDP.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GoogleCloudComputing/2. GCP Windows RDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +88,15 @@
   },
   "active": "562cf1524e75f96a",
   "lastOpenFiles": [
-    "software/RDP.md",
-    "software/DAW2/Servidor.md",
-    "software/Linux/SSH.md",
-    "GoogleCloudComputing/Cloud Console/2. Qwik Start - Windows.md",
-    "software/DAW2/XMLHttpRequest.md",
+    "GoogleCloudComputing/2. GCP Windows RDP.md",
     "GoogleCloudComputing/1. Cómo crear una máquina virtual.md",
-    "software/Cluster.md",
-    "GoogleCloudComputing/Cloud Console/Cloud Console.md",
+    "GoogleCloudComputing/Google Cloud.md",
+    "GoogleCloudComputing/Qwiklabs.md",
+    "software/Sistema/RDP.md",
+    "software/Sistema/Cluster.md",
+    "GoogleCloudComputing/Cloud Console/Qwik Start - Windows.md",
     "software/Linux/Linux.md",
-    "GoogleCloudComputing/Google Cloud.md"
+    "software/DAW2/Servidor.md",
+    "software/Linux/SSH.md"
   ]
 }
