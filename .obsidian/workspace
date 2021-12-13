@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GoogleCloudComputing/2. GCP Windows RDP.md",
-            "mode": "source"
+            "file": "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#protocolo",
+                "query": "regiones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogleCloudComputing/2. GCP Windows RDP.md",
+                "file": "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "562cf1524e75f96a",
   "lastOpenFiles": [
-    "GoogleCloudComputing/2. GCP Windows RDP.md",
+    "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+    "GoogleCloudComputing/Cloud Console/Funciones y permisos.md",
     "GoogleCloudComputing/1. Cómo crear una máquina virtual.md",
+    "GoogleCloudComputing/2. GCP Windows RDP.md",
     "GoogleCloudComputing/Google Cloud.md",
-    "GoogleCloudComputing/Qwiklabs.md",
-    "software/Sistema/RDP.md",
-    "software/Sistema/Cluster.md",
-    "GoogleCloudComputing/Cloud Console/Qwik Start - Windows.md",
-    "software/Linux/Linux.md",
-    "software/DAW2/Servidor.md",
-    "software/Linux/SSH.md"
+    "regiones.md",
+    "software/DAW2/AJAX.md",
+    "Untitled.md",
+    "software/Linux/SSH.md",
+    "GoogleCloudComputing/Cloud Console/API y Servicios.md"
   ]
 }
