@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+            "file": "Responsive Design/CSS.md",
+            "mode": "source"
+          }
+        },
+        "group": "b9f945ca99743ce6"
+      },
+      {
+        "id": "3b804673171102ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Responsive Design/CSS.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "b9f945ca99743ce6"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+                "file": "Responsive Design/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +101,15 @@
   },
   "active": "562cf1524e75f96a",
   "lastOpenFiles": [
-    "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
-    "GoogleCloudComputing/Cloud Console/Funciones y permisos.md",
-    "GoogleCloudComputing/1. Cómo crear una máquina virtual.md",
-    "GoogleCloudComputing/2. GCP Windows RDP.md",
+    "Responsive Design/CSS.md",
     "GoogleCloudComputing/Google Cloud.md",
-    "regiones.md",
-    "software/DAW2/AJAX.md",
-    "Untitled.md",
-    "software/Linux/SSH.md",
-    "GoogleCloudComputing/Cloud Console/API y Servicios.md"
+    "GoogleCloudComputing/5. Kubernetes Engine Qwik Start.md",
+    "GoogleCloudComputing/4. GCP Windows RDP.md",
+    "GoogleCloudComputing/1. Cómo crear una máquina virtual.md",
+    "GoogleCloudComputing/2. Compute Engine Qwik Start - Windows.md",
+    "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+    "software/Sistema/Cluster.md",
+    "software/Sistema/RDP.md",
+    "GoogleCloudComputing/Cloud Console/Funciones y permisos.md"
   ]
 }

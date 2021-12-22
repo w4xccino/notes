@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "images",
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "lineWrap": true
 }
