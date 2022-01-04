@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "aca08ae9a3e0d055",
     "type": "split",
     "children": [
@@ -10,11 +11,40 @@
           "type": "empty",
           "state": {}
         }
+=======
+    "id": "e29b59a4ac5574d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "562cf1524e75f96a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Responsive Design/CSS.md",
+            "mode": "source"
+          }
+        },
+        "group": "b9f945ca99743ce6"
+      },
+      {
+        "id": "3b804673171102ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Responsive Design/CSS.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b9f945ca99743ce6"
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "4cb3d6d6263887e3",
     "type": "split",
     "children": [
@@ -24,6 +54,17 @@
         "children": [
           {
             "id": "54897c29c1d1668e",
+=======
+    "id": "e450cdad95348364",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f39330dc368945b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680991b4d88ffdfa",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +72,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "00b0758669a52b81",
+=======
+            "id": "b619d3840254bc64",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "regiones",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,6 +98,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
   },
@@ -62,10 +112,28 @@
         "children": [
           {
             "id": "eaa811481a89793c",
+=======
+    "width": 300
+  },
+  "right": {
+    "id": "b1da0d19792ec50f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacec97ccddc064b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a77f5bad89f155cb",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Responsive Design/CSS.md",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +151,22 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "cedce91579e7cfb2",
   "lastOpenFiles": []
+=======
+  "active": "562cf1524e75f96a",
+  "lastOpenFiles": [
+    "Responsive Design/CSS.md",
+    "GoogleCloudComputing/Google Cloud.md",
+    "GoogleCloudComputing/5. Kubernetes Engine Qwik Start.md",
+    "GoogleCloudComputing/4. GCP Windows RDP.md",
+    "GoogleCloudComputing/1. Cómo crear una máquina virtual.md",
+    "GoogleCloudComputing/2. Compute Engine Qwik Start - Windows.md",
+    "GoogleCloudComputing/3. Cómo comenzar a utilizar Cloud Shell y gcloud.md",
+    "software/Sistema/Cluster.md",
+    "software/Sistema/RDP.md",
+    "GoogleCloudComputing/Cloud Console/Funciones y permisos.md"
+  ]
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
 }

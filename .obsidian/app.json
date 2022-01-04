@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 {}
+=======
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "showFrontmatter": false,
+  "vimMode": true,
+  "showLineNumber": true,
+  "lineWrap": true
+}
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
