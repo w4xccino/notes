@@ -1,5 +1,17 @@
 {
   "main": {
+<<<<<<< HEAD
+    "id": "aca08ae9a3e0d055",
+    "type": "split",
+    "children": [
+      {
+        "id": "cedce91579e7cfb2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+=======
     "id": "e29b59a4ac5574d3",
     "type": "split",
     "children": [
@@ -28,11 +40,23 @@
           }
         },
         "group": "b9f945ca99743ce6"
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+    "id": "4cb3d6d6263887e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a8edb0071fb46eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54897c29c1d1668e",
+=======
     "id": "e450cdad95348364",
     "type": "split",
     "children": [
@@ -42,6 +66,7 @@
         "children": [
           {
             "id": "680991b4d88ffdfa",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,13 +74,26 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "00b0758669a52b81",
+=======
             "id": "b619d3840254bc64",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
                 "matchingCase": true,
+=======
+<<<<<<< HEAD
+                "query": "",
+=======
+                "query": "regiones",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
+                "matchingCase": false,
+>>>>>>> d70487091862e9b3b1b569d60636dcdc5c92f589
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,6 +105,21 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "473ea08332ddfbe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2704b56f50b3e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa811481a89793c",
+=======
     "width": 300
   },
   "right": {
@@ -79,11 +132,19 @@
         "children": [
           {
             "id": "a77f5bad89f155cb",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "JavaScript/ES6.md",
+=======
+<<<<<<< HEAD
+=======
+                "file": "Responsive Design/CSS.md",
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
+>>>>>>> d70487091862e9b3b1b569d60636dcdc5c92f589
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +162,10 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+  "active": "cedce91579e7cfb2",
+  "lastOpenFiles": []
+=======
   "active": "562cf1524e75f96a",
   "lastOpenFiles": [
     "JavaScript/ES6.md",
@@ -114,4 +179,5 @@
     "software/Sistema/Sistema.md",
     "software/Sistema/Cluster.md"
   ]
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
 }

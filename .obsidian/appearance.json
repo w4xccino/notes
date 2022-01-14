@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+  "baseFontSize": 16
+=======
   "baseFontSize": 20,
   "cssTheme": "Atom"
+>>>>>>> af7f4a1deee34afb224f91a63369ec4327a9d46f
 }
