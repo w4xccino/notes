@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "562cf1524e75f96a",
+        "id": "e6c234d77c54ff7f",
         "type": "leaf",
-        "dimension": 49.23076923076924,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/ES6.md",
+            "file": "software/Linux/SSH.md",
             "mode": "source"
           }
-        },
-        "group": "b9f945ca99743ce6"
-      },
-      {
-        "id": "3b804673171102ee",
-        "type": "leaf",
-        "dimension": 50.76923076923076,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/ES6.md",
-            "mode": "preview"
-          }
-        },
-        "group": "b9f945ca99743ce6"
+        }
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ES6.md",
+                "file": "software/Linux/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "562cf1524e75f96a",
+  "active": "e6c234d77c54ff7f",
   "lastOpenFiles": [
-    "JavaScript/ES6.md",
-    "JavaScript/Conceptos basicos..md",
-    "software/Linux/Linux.md",
-    "software/Linux/Tmux.md",
     "software/Linux/SSH.md",
-    "software/DAW2/CRM.md",
-    "software/Linux/VIM.md",
-    "software/Sistema/RDP.md",
+    "software/Linux/Linux.md",
     "software/Sistema/Sistema.md",
-    "software/Sistema/Cluster.md"
+    "software/Linux/VIM.md"
   ]
 }

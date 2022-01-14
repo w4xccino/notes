@@ -64,12 +64,10 @@ Para crear una variable CSS, solo tienes que darle un nombre que comience con do
 ```
 
 Esto creará una variable llamada `--penguin-skin` y le asignará el valor `gray`. Ahora puedes usar esa variable en cualquier otro lugar de tu código CSS para cambiar el valor de otros elementos a "gray" (gris).
-### **Crea una variable de CSS personalizada**
-
-Para crear una variable CSS, solo tienes que darle un nombre que comience con dos guiones (--) y asignarle un valor, como se muestra a continuación:
-
-```css
---penguin-skin: gray;
-```
 
 Esto creará una variable llamada `--penguin-skin` y le asignará el valor `gray`. Ahora puedes usar esa variable en cualquier otro lugar de tu código CSS para cambiar el valor de otros elementos a "gray" (gris).
+
+## **Cambia la posición de los elementos superpuestos con la propiedad z-index**
+#important 
+Cuando los elementos son posicionados para superponerse (i.e. usando `position: absolute | relative | fixed | sticky`), el elemento que viene después dentro del marcado HTML aparecerá, por defecto, encima de los otros elementos. Sin embargo, la propiedad `z-index` puede especificar el orden de cómo los elementos están apilados unos sobre otros. Debe ser un entero (i.e. un número entero y no un decimal), y los elementos que mayor valor tengan en `z-index` serán movidos más arriba en la pila de elementos que aquellos con valores menores.
+

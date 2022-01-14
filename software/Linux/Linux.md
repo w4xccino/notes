@@ -17,7 +17,8 @@
 - `find . -name <name>` Buscar en la carpeta actual por nombre
 	- `service <process_name> status` ver si un proceso está siendo ejecutado
 	- `ps aux | grep <process_name>` ver si un proceso está siendo ejecutado
-- 
+- `which` para obtener la locacion de otro comando 
+- `du -h` . ver peso de la carpeta actal.
 # Locaciones importantes
 - `/etc/fstab` es un archivo para modificar las particiones y discos.
 - `/boot/grub/grub.conf` archivo para modificar el grub.

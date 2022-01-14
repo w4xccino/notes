@@ -1,4 +1,4 @@
-# Qué es Tmux?
+	# Qué es Tmux?
 
 [[Tmux]] es una aplicación que permite dividir terminales en una sola ventana. ES decir que se pueden correr varias operaciones simultaneamente en una sola terminal por medio de paneles y sesiones configurables. Todo eso se puede configurar, es genial pero no se como usarlo aún.
 

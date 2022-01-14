@@ -59,8 +59,8 @@ xhttp.send("dato=valor&dato2=valor2");
 ```js
 xhhtp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200){
-     codigo JS que queremos ejecutar
-     incluir responseText / resposeXML
+     //codigo JS que queremos ejecutar
+     //incluir responseText / resposeXML
   }
 }
 ```
