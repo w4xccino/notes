@@ -6,11 +6,11 @@
       {
         "id": "562cf1524e75f96a",
         "type": "leaf",
-        "dimension": 49.23076923076924,
+        "dimension": 73.38709677419355,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/ES6.md",
+            "file": "JavaScript/Async JS.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "3b804673171102ee",
         "type": "leaf",
-        "dimension": 50.76923076923076,
+        "dimension": 26.61290322580645,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/ES6.md",
+            "file": "JavaScript/Async JS.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ES6.md",
+                "file": "JavaScript/Async JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "562cf1524e75f96a",
   "lastOpenFiles": [
+    "JavaScript/Async JS.md",
     "JavaScript/ES6.md",
     "JavaScript/Conceptos basicos..md",
     "software/Linux/Linux.md",
@@ -111,7 +112,6 @@
     "software/DAW2/CRM.md",
     "software/Linux/VIM.md",
     "software/Sistema/RDP.md",
-    "software/Sistema/Sistema.md",
-    "software/Sistema/Cluster.md"
+    "software/Sistema/Sistema.md"
   ]
 }

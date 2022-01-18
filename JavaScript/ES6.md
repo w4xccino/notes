@@ -150,4 +150,25 @@ Utiliza la sintaxis de desestructuración para intercambiar los valores de `a` y
 let a = 8, b = 6;
 [a,b] = [b,a] //solucion
 
+## Cadenas usando plantillas literales
+
+Una nueva característica de ES6 es la plantilla literal. Este es un tipo especial de cadena que facilita la creación de cadenas complejas.
+
+Las plantillas literales te permiten crear cadenas multilínea y usar características de interpolación, para crearlas.
+
+Fíjese en el código debajo:
+
+```js
+const person = {
+  name: "Zodiac Hasbro",
+  age: 56
+};
+
+const greeting = `Hello, my name is ${person.name}!
+I am ${person.age} years old.`;
+
+console.log(greeting);
+```
+
+La consola mostrará las cadenas `Hello, my name is Zodiac Hasbro!` y `I am 56 years old.`.
 
