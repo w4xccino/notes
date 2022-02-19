@@ -6,13 +6,28 @@
       {
         "id": "45cffbf672966cd6",
         "type": "leaf",
+        "dimension": 53.9551357733176,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/ES6.md",
+            "file": "JavaScript/Expresiones Regulares.md",
+            "mode": "source"
+          }
+        },
+        "group": "41ffa20b6b8fd7f1"
+      },
+      {
+        "id": "82e26222fd453296",
+        "type": "leaf",
+        "dimension": 46.0448642266824,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/Expresiones Regulares.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "41ffa20b6b8fd7f1"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "expres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fec17de107f7f9aa",
@@ -68,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ES6.md",
+                "file": "JavaScript/Expresiones Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +104,15 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
-    "JavaScript/ES6.md",
+    "JavaScript/Expresiones Regulares.md",
+    "JavaScript/Async JS.md",
     "JavaScript/Conceptos basicos..md",
-    "JavaScript/Async JS.md"
+    "JavaScript/ES6.md",
+    "software/DAW2/Browser.md",
+    "software/Linux/Tmux.md",
+    "software/Linux/Linux.md",
+    "software/Linux/VIM.md",
+    "software/DAW2/Servidor.md",
+    "images/Pasted image 20211204112057.png"
   ]
 }
