@@ -20,6 +20,7 @@ Normalmente esto se usa en [[Linux]]
 - `,s` abre navegacion por palabras
 - `o` agregar nueva linea
 - `s` nerd tree open split windows****
+- `H` ó `L` para moverse entre buffers
 
 # Instalar Lunar Vim
 ### Primero instalar NeoVim 0.6 en adelante con:

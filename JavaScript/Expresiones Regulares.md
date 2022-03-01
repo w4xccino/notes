@@ -78,5 +78,30 @@ testStr.match(repeatRegex);
 
 Y aquí `match` devuelve el valor `["Repeat", "Repeat", "Repeat"]`
 
+#### Problem 1 #important 
+1.  Los nombres de usuario sólo pueden utilizar caracteres alfanuméricos.
+    
+2.  Los únicos números del nombre de usuario tienen que estar al final. Puede tener un cero o más al final. El nombre de usuario no puede iniciar con un número.
+    
+3.  Las letras del nombre de usuario pueden ser minúsculas y mayúsculas.
+    
+4.  Los nombres de usuario deben tener al menos dos caracteres. Un nombre de usuario de dos caracteres sólo puede utilizar letras del alfabeto como caracteres.
 
+```js
+let username = "JackOfAllTrades";
+let userCheck = /^[a-z][a-z]+\d*$|^[a-z]\d\d+$/i;
+let result = userCheck.test(username);
+console.log(result)
+```
+
+###### Code Explanation
+
+1.  `^` - start of input
+2.  `[a-z]` - first character is a letter
+3.  `[a-z]+` - following characters are letters
+4.  `\d*$` - input ends with 0 or more digits
+5.  `|` - or
+6.  `^[a-z]` - first character is a letter
+7.  `\d\d+` - following characters are 2 or more digits
+8.  `$` - end of input
 

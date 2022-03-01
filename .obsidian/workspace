@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Expresiones Regulares.md",
+            "file": "Courses/Software y Prototipado.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Expresiones Regulares.md",
+            "file": "Courses/Software y Prototipado.md",
             "mode": "preview"
           }
         },
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fec17de107f7f9aa",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Expresiones Regulares.md",
+                "file": "Courses/Software y Prototipado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +103,15 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
+    "Courses/Software y Prototipado.md",
     "JavaScript/Expresiones Regulares.md",
+    "Courses/FPR - 5.md",
+    "software/Linux/VIM.md",
     "JavaScript/Async JS.md",
     "JavaScript/Conceptos basicos..md",
     "JavaScript/ES6.md",
     "software/DAW2/Browser.md",
     "software/Linux/Tmux.md",
-    "software/Linux/Linux.md",
-    "software/Linux/VIM.md",
-    "software/DAW2/Servidor.md",
-    "images/Pasted image 20211204112057.png"
+    "software/Linux/Linux.md"
   ]
 }
