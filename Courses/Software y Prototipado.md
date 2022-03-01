@@ -26,4 +26,36 @@ Algunos software requieren una licencia para ser usados. Para eso, se requiere u
 
 Un *arquitecto de software* es aquel que tiene la capacidad para desarrollar los diferentes niveles y conectarlos a traves de esa estructura o arquitectura. Maneja y controla todos los modelos de conexión, analista/programador, diseñador/programador, entre otros.
 
-Cuando no exite uno, entonces el jefe de proyecto asume el cargo de arquitecto de software
+Cuando no exite uno, entonces el jefe de proyecto asume el cargo de arquitecto de software.
+
+Con una buena arquitectura de software se logra:
+ - Confiabilidad
+ - Calidad
+ - Rendimiento
+
+##### Modelos de arquitectura:
+- Estructurales:
+	- CORBA
+	- PRISM
+- Dinámicos
+- Procesos.
+
+##### Tipos de Arquitectura.
+- Cliente/servidor(el mas antiguo)
+- Blackboard (fallido)
+- Entre capas(MVC)
+- Interprete
+- Orientado a servicios. (mas usado, es algoa asi como una API)
+
+##### Metas
+- Usabilidad
+- Confiabilidad
+- Rendimiento
+- Soporte
+- Aspectos de Diseño
+- Requerimientos de implementación
+- Requerimientos físicos
+- Aspectos Generales
+
+
+
