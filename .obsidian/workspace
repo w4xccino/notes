@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Software y Prototipado.md",
+            "file": "Courses/FPR - 5.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Software y Prototipado.md",
+            "file": "Courses/FPR - 5.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Software y Prototipado.md",
+                "file": "Courses/FPR - 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
-    "Courses/Software y Prototipado.md",
     "Courses/FPR - 5.md",
+    "Courses/Software y Prototipado.md",
     "Courses/Definitions.md",
+    "software/Linux/Tmux.md",
     "JavaScript/Expresiones Regulares.md",
     "software/Linux/VIM.md",
     "JavaScript/Async JS.md",
     "JavaScript/Conceptos basicos..md",
     "JavaScript/ES6.md",
-    "software/DAW2/Browser.md",
-    "software/Linux/Tmux.md"
+    "software/DAW2/Browser.md"
   ]
 }

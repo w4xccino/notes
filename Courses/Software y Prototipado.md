@@ -58,4 +58,7 @@ Con una buena arquitectura de software se logra:
 - Aspectos Generales
 
 
+## Modelado de datos.
 
+
+Diagrama logico de base de datos donde se comprenden y diseñan la información.
