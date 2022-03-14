@@ -1,3 +1,27 @@
+## Ordenamiento de código
+1. Importación de módulos.
+2. Declaración de variables.
+3. Declaración de funciones.
+4. Ejecución de Código.
+
+## Tipos de Datos
+### Primitivos
+Estos datos se acceden directamente al valor:
+- string
+- number
+- boolean
+- null
+- Undefined
+- NaN
+
+### Compuestos
+Se acceden a la referencia del valor
+
+- Object = {}
+- array = []
+- function = (){}
+- Class {}
+- etc.
 ## Variables: (lvc)
 ```javascript
 let a = 12 //hace que a sea leida solamente por la funcion que lo contiene ademas la variable solamente se  puede declarar una vez. 
@@ -44,6 +68,83 @@ else{
 	//content3
 }
 ```
+ #important 
+ Es recomendable siempre usar funciones expresadas como: 
+ ```js
+const valor = function(){
+	console.log('hola')
+}
+```
+Porque si no se usan funciones expresadas puede causar un programa desoptimizado y con malas practicas. Normalmente las funciones declaradas `function name(){}` suelen ser accesibles globalmente.
+
+##### Operador ternario
+```js
+let ejemplo = (edad>18)?"Eres mayor de edad":"Eres menor de edad"
+
+// (condicion) ? True : False
+```
+
+##### Switch Case
+
+```js
+let day = 3 // valor 3
+switch (day):
+	case 0:
+		console.log("Domingo");
+		break;
+	case 1:
+		console.log("Lunes");
+		break;
+	case 2:
+		console.log("Martes");
+		break;
+	case 3:
+		console.log("Miercoles"); //se ejecuta esa linea de codigo
+		break;
+	case 4:
+		console.log("Jueves");
+		break;
+	case 5:
+		console.log("Viernes");
+		break;
+	case 6:
+		console.log("Sabado");
+		break;
+
+```
+
+# Try Catch Finally
+
+Manejo de errores: SIntaxis
+```js
+try{
+	//code
+	if(){
+		throw new Error("especificar error"); //sirve para mandar al catch
+	}
+}catch(error){
+	//code`{$error}`
+
+}finally{
+	//code
+}
+```
+ 
+ 
+```js
+try {
+	let numero = 10
+	if (isNaN(numero)){ //pregunta si es un caracter
+		throw new Error("No has introducido un numero");
+	}
+	console.log(numero * numero);
+}catch(error){
+	console.log(`Se ha producido el siguiente error ${error}`);
+}finally{
+	//esta wea siempre se ejecuta
+}
+
+```
 
 
 ## Objetos
@@ -57,6 +158,25 @@ let dog{
 }
 ```
 
+##### Objetos literales
+EN ES6, la creaci'on de las propiedades de los nuevos objetos se puede hacer de esta manera..
+```js
+let name = "Doggy"
+let age = "3"
+const dog = {
+	name, //no es necesario poner name: name,
+	age, //ni tampoco age: age, haciendo referencia a las anteriores variables
+	woof(){ //esto se sobre entiende que el metodo se llama woof
+		console.log("Woof Woof!")	
+	}
+}
+// haciendo llamada a las propiedades de los objetos.
+
+console.log(dog.name); //retorna Doggy
+console.log(dog.age); //retorna 3
+dog.woof(); // retorna "Woof Woof!"
+
+```
 #### Acceso
 Los objetos tienen la caracteristica de almacenamiento **clave/valor** es decir, como un diccionario.
 Se puede usar para ahorrarnos tiempo en la creacion de sentencias `if else` o `switch case`

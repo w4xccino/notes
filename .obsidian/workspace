@@ -6,11 +6,11 @@
       {
         "id": "45cffbf672966cd6",
         "type": "leaf",
-        "dimension": 53.9551357733176,
+        "dimension": 51.94805194805194,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/FPR - 5.md",
+            "file": "JavaScript/Conceptos basicos..md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "82e26222fd453296",
         "type": "leaf",
-        "dimension": 46.0448642266824,
+        "dimension": 48.05194805194806,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/FPR - 5.md",
+            "file": "JavaScript/Conceptos basicos..md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/FPR - 5.md",
+                "file": "JavaScript/Conceptos basicos..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
-    "Courses/FPR - 5.md",
-    "Courses/Software y Prototipado.md",
-    "Courses/Definitions.md",
-    "software/Linux/Tmux.md",
-    "JavaScript/Expresiones Regulares.md",
-    "software/Linux/VIM.md",
-    "JavaScript/Async JS.md",
     "JavaScript/Conceptos basicos..md",
+    "JavaScript/Expresiones Regulares.md",
+    "software/Linux/Linux.md",
     "JavaScript/ES6.md",
-    "software/DAW2/Browser.md"
+    "JavaScript/Async JS.md",
+    "undefined.md",
+    "Courses/Software y Prototipado.md",
+    "Courses/FPR - 5.md",
+    "Courses/Definitions.md",
+    "software/Linux/Tmux.md"
   ]
 }
