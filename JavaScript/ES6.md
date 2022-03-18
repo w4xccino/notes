@@ -48,11 +48,11 @@ console.log(howMany("string", null, [1, 2, 3], { }));
 
 La consola mostrará las cadenas `You have passed 3 arguments.` y `You have passed 4 arguments.`.
 
-### Operador de propagación para evaluar los arreglos en el lugar.
+### Operador de propagación (spread)para evaluar los arreglos en el lugar.
 Asi tambien, el parametro rest, puede usarse para funciones que solamente esperan un argumento. Por ejemplo:
 ```js
 const arr = [6, 89, 3, 45];
-const maximus = Math.max(...arr);
+const maximus = Math.max(...arr); //89
 ```
 
 `maximus` tendría un valor de `89`.
