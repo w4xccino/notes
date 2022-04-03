@@ -39,7 +39,9 @@ Editar cualquiera de estos dos archivos con los comandos de arriba:
 
 # GIT
 - `git config credential.helper store`Guardar credenciales de github
-
+- `git reset`
+- `git checkout`
+- `git revert` 
 # Alacritty
 `alacritty-themes` configura los colorcitos del alacritty
 

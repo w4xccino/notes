@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Conceptos basicos..md",
+            "file": "software/Linux/Linux.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/Conceptos basicos..md",
+            "file": "software/Linux/Linux.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Conceptos basicos..md",
+                "file": "software/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
-    "JavaScript/Conceptos basicos..md",
-    "JavaScript/ES6.md",
-    "JavaScript/Expresiones Regulares.md",
     "software/Linux/Linux.md",
+    "software/React/Handling Events.md",
+    "software/React/Rendering List.md",
+    "software/React/Basic Concepts.md",
+    "software/Node.js/What is.md",
+    "React/Untitled.md",
+    "software/Linux/VIM.md",
+    "software/Linux/Tmux.md",
     "JavaScript/Async JS.md",
-    "undefined.md",
-    "Courses/Software y Prototipado.md",
-    "Courses/FPR - 5.md",
-    "Courses/Definitions.md",
-    "software/Linux/Tmux.md"
+    "JavaScript/Conceptos basicos..md"
   ]
 }
