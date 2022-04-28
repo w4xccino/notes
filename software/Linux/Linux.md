@@ -45,3 +45,22 @@ Editar cualquiera de estos dos archivos con los comandos de arriba:
 # Alacritty
 `alacritty-themes` configura los colorcitos del alacritty
 
+# PULSEAUDIO
+
+Avoid the sound card be inactive
+3
+
+I've been struggling with the same problem & found no solution on the web (in hindsight I was using incorrect / too vague search terms). But I finally figured it out so here it is, hoping this helps others.
+
+Edit `/etc/pulse/default.pa` and comment the following line:
+
+`load-module module-suspend-on-idle`
+which becomes:
+
+`# load-module module-suspend-on-idle`
+Then restart the sound server.
+`pulseaudio -k`
+
+
+
+
