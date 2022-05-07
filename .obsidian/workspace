@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/Linux/Linux.md",
+            "file": "software/Express/express.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/Linux/Linux.md",
+            "file": "software/Express/express.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/Linux/Linux.md",
+                "file": "software/Express/express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "45cffbf672966cd6",
   "lastOpenFiles": [
+    "software/Express/express.md",
     "software/Linux/Linux.md",
     "software/React/Handling Events.md",
     "software/React/Rendering List.md",
@@ -111,7 +112,6 @@
     "React/Untitled.md",
     "software/Linux/VIM.md",
     "software/Linux/Tmux.md",
-    "JavaScript/Async JS.md",
-    "JavaScript/Conceptos basicos..md"
+    "JavaScript/Async JS.md"
   ]
 }

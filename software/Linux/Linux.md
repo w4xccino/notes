@@ -42,6 +42,12 @@ Editar cualquiera de estos dos archivos con los comandos de arriba:
 - `git reset`
 - `git checkout`
 - `git revert` 
+### Resolving conflicts
+We only have 3 options
+1. `git commit`We could commit our changes. The problem is we'll just overriding our local changes if we do that.
+2. `git reset --hard HEAD` This is good one but we all just we do is bring back our changes locally to the previous commit.
+3. `git stash` Basically this does is it will take our all changes and stashing(hide) apart for a moment.
+
 # Alacritty
 `alacritty-themes` configura los colorcitos del alacritty
 
